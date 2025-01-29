@@ -1,0 +1,13 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Machine Learning & Data Mining
+scikit-learn
+
+# Jupyter & Autograding
+jupyter
+otter-grader  # Alternative autograding system
